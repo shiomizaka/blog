@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://shiomizaka.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'ミステリの勉強'
 theme = 'PaperMod'
