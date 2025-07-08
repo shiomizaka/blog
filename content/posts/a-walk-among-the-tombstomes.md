@@ -1,5 +1,5 @@
 ---
-title: "Sins of the Fathers"
+title: "A Walk Among the Tombstones (film)"
 date: 2025-07-08T10:30:00+09:00
 draft: false
 categories: ["review"]
@@ -7,6 +7,7 @@ tags: ["Lawrence Block", "Matthew Scudder"]
 ---
 
 # 映画「誘拐の掟」2014
+### A Walk Among the Tombstones (film)
 
 原作はローレンス・ブロック Lawrence Block のスカダーシリーズ第10作「獣たちの墓」A walk among the tombstones。1992年原書発行、日本語版は1993年にハードカバーが出ている。現在[二見文庫で出ている版](https://www.futami.co.jp/book/3661)は、単行本（とおそらく古い文庫本）とは一部翻訳に手が加えられているとのこと。翻訳はもちろん田口俊樹。
 
