@@ -3,7 +3,7 @@ title: "A Walk Among the Tombstones (film)"
 date: 2025-07-08T10:30:00+09:00
 draft: false
 categories: ["review"]
-tags: ["Lawrence Block", "Matthew Scudder"]
+tags: ["Lawrence Block", "Matthew Scudder" , "film"]
 ---
 
 # 映画「誘拐の掟」2014
