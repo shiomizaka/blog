@@ -24,7 +24,7 @@ theme = 'PaperMod'
   # アイコン下に表示するボタン（任意）
   [[params.profileMode.buttons]]
     name = "index"
-    url = "/posts"
+    url = "/contents/posts"
   [[params.profileMode.buttons]]
     name = "categories"
     url = "/categories"
