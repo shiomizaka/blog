@@ -25,12 +25,20 @@ theme = 'PaperMod'
   profileMode.imageHeight = 120
 
   # アイコン下に表示するボタン（任意）
+# --- ここからがボタンの設定 ---
   [[params.profileMode.buttons]]
-    name = "index"
-    url = "/content/posts"
+    name = "ブログ" # ボタンに表示されるテキスト
+    url = "/posts"   # リンク先のURL
+
   [[params.profileMode.buttons]]
-    name = "categories"
+    name = "カテゴリ"
     url = "/categories"
+
+  [[params.profileMode.buttons]]
+    name = "タグ"
+    url = "/tags"
+
+
   # --- ここまで --
 [[params.socialIcons]]
   name = "bluesky"
