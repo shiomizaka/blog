@@ -1,7 +1,8 @@
 baseURL = 'https://shiomizaka.github.io/blog/'
 languageCode = 'en-us'
-title = 'ミステリの勉強'
+title = 'Study of mystery'
 theme = 'PaperMod'
+
 
 [params]
   # --- ここから追記 ---

@@ -2,6 +2,8 @@
 title: "Sins of the Fathers"
 date: 2025-07-08T15:30:00+09:00
 draft: false
+categories: ["review"]
+tags: ["Lawrence Block", "Matthew Scudder"]
 ---
 
 #  過去からの弔鐘
