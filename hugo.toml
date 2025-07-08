@@ -8,6 +8,9 @@ theme = 'PaperMod'
   # プロフィールモードを有効にする
   profileMode.enabled = true
 
+  # トップページに表示するセクションを指定
+  mainSections = ["posts"]
+
   # アイコンの上に表示される名前（サイトのtitleと同じでよければ不要）
   profileMode.title = "shiomizaka" # あなたの名前に変更
 
