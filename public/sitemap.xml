@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/posts/</loc>
-    <lastmod>2025-07-07T16:33:49+09:00</lastmod>
+    <lastmod>2025-07-08T15:30:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/posts/sins-of-the-fathers/</loc>
+    <lastmod>2025-07-08T15:30:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-07-07T16:33:49+09:00</lastmod>
+    <lastmod>2025-07-08T15:30:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/categories/</loc>
   </url><url>
