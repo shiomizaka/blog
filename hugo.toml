@@ -1,6 +1,6 @@
 baseURL = 'https://shiomizaka.github.io/blog/'
 languageCode = 'en-us'
-title = 'Study of mystery'
+title = 'A Study in Mystery'
 theme = 'PaperMod'
 
 
@@ -16,7 +16,7 @@ theme = 'PaperMod'
   profileMode.title = "shiomizaka" # あなたの名前に変更
 
   # プロフィール下のサブタイトル
-  profileMode.subtitle = "study of mystery"
+  profileMode.subtitle = "a study in mystery"
 
   # アイコン画像のパス（assetsフォルダからのパス）
   profileMode.imageUrl = "icon.jpg" # あなたの画像ファイル名に変更

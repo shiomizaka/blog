@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Study of mystery</title>
+    <title>Categories on A Study in Mystery</title>
     <link>http://localhost:1313/blog/categories/</link>
-    <description>Recent content in Categories on Study of mystery</description>
+    <description>Recent content in Categories on A Study in Mystery</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jul 2025 15:30:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Review</title>
+      <link>http://localhost:1313/blog/categories/review/</link>
+      <pubDate>Tue, 08 Jul 2025 15:30:00 +0900</pubDate>
+      <guid>http://localhost:1313/blog/categories/review/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
