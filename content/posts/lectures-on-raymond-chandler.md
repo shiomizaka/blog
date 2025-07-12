@@ -1,7 +1,7 @@
 ---
-date = '2025-07-12T22:04:33+09:00'
-draft = true
-title = 'Lectures on Raymond Chandler'
+date: '2025-07-12T22:04:33+09:00'
+draft: false
+title: 'Lectures on Raymond Chandler'
 categories: ["review"]
 tags: ["Raymond Cahnder", "Philip Marlowe" , "essay"]
 ---
