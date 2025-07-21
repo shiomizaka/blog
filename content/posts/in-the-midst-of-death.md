@@ -22,7 +22,7 @@ tags: ["Lawrence Block", "Matthew Scudder" , "novel"]
 
 娼婦、選挙、市警といった、70年代ニューヨークミステリの三大噺。
 
-「過去からの弔鐘」の2ヶ月後に出版されたというのだから、同時期に書き進められていたのだろうか。速すぎる。
+「過去からの弔鐘」の2ヶ月後に出版されたというのだから、同時期に書き進められていたのだろうか。
 
 出版順に並べると、「過去からの弔鐘」（1976年8月）「冬を怖れた女」（1976年10月）「一ドル銀貨の遺言 TIME TO MURDER AND CREATE」（1977年1月）。これをローレンス・ブロックはなぜか並び替えて、スカダーの物語としては第１作「過去からの弔鐘」第２作「一ドル銀貨の遺言」第３作「冬を怖れた女」としている。現在のローレンス・ブロック公式ウェブサイトにも「Please note that while TIME TO MURDER AND CREATE was originally published after IN THE MIDST OF DEATH, it is the second in the series」とわざわざ書いている。なぜだろう？
 
